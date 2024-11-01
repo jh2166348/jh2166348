@@ -67,9 +67,9 @@ knowledge of data analysis using the Looker Studio software.
 </span>
 
 ----
-
+<div align="center">
 <h2 >Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=jh2166348&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/jh2166348)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=jh2166348&theme=material-palenight)](https://github.com/jh2166348)
-
+</div>
